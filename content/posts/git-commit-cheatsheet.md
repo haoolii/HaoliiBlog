@@ -5,6 +5,10 @@ tags = ["git"]
 categories = ["筆記"]
 draft = false
 +++
+<!--more-->
+---
+
+
 ## Commeit Message
 
 ### 結構

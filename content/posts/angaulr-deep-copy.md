@@ -6,6 +6,9 @@ categories = ["筆記"]
 draft = false
 +++
 
+<!--more-->
+---
+
 ## 使用場景
 深拷貝使用多半在深層結構物件傳入`@Input`或是各種`function`傳遞深層結構物件時，防止在眾多`Component`以及`function`，未注意`reference`而不小心更動到結構內的資料。
 

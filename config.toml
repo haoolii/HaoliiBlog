@@ -1,4 +1,47 @@
 baseURL = "https://www.haolii.me/"
 languageCode = "en-us"
 title = "HaoLii's Blog"
-theme = "hugo-theme-cactus-plus"
+theme = "archie"
+
+copyright = "© Hao"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	featherIconsCDN=true
+	subtitle = "Hello I'm Hao"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/unnhao"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://github.com/unnhao"
+
+[[params.social]]
+name = "GitLab"
+icon = "gitlab"
+url = "https://github.com/unnhao"
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4

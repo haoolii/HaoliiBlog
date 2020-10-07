@@ -1,10 +1,17 @@
 +++
-title = "Angularr 測試入門 基本筆記"
-date = 2020-10-04T21:37:28+08:00
-tags = ["Angular"]
-categories = ["筆記"]
-draft = false
+author = "Hugo Authors"
+title = "Rich Content"
+date = "2019-03-10"
+description = "A brief description of Hugo Shortcodes"
+tags = [
+    "shortcodes",
+    "privacy",
+]
 +++
+
+<!--more-->
+---
+
 ## 基本配置介紹
 
 ```typescript
