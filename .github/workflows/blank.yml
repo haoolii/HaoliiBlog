@@ -16,11 +16,11 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "0.64.0"
-
+      
       - name: Build
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
-        run: hugo --minify
+        run: hugo -D
       
       - name: LOOOOOG
         run: git log
