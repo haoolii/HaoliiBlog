@@ -21,6 +21,9 @@ jobs:
         # remove --minify tag if you do not need it
         # docs: https://gohugo.io/hugo-pipes/minification/
         run: hugo --minify
+      
+      - name: LOOOOOG
+        run: git log
 
       - name: Azure Blob Upload
         # You may pin to the exact commit or the version.
