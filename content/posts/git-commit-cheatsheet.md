@@ -1,6 +1,7 @@
 +++
 title = "Git Commit 快速小抄"
 date = 2020-09-03T22:54:39+08:00
+description = "我的簡單Commit小抄"
 tags = ["git"]
 categories = ["筆記"]
 draft = false

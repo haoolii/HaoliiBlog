@@ -1,6 +1,7 @@
 +++
 title = "Angaulr 開發工具內的深拷貝 Deep Copy"
 date = 2020-10-03T21:37:48+08:00
+description = "Angular 擺脫副作用發生的小工具"
 tags = ["Angular"]
 categories = ["筆記"]
 draft = false
