@@ -4,7 +4,7 @@ date = 2021-03-07T22:01:39+08:00
 tags = ["筆記", "python", "docker"]
 categories = ["python", "docker"]
 draft = false
-description = ""
+description = "快速建構隔離可控制的python開發環境"
 +++
 
 <!--more-->
