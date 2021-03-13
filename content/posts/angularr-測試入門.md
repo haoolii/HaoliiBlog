@@ -2,8 +2,8 @@
 title = "Angular 單元測試筆記"
 date = "2019-03-10"
 description = "Angular 單元測試簡單筆記"
-tags = ["Angular"]
-categories = ["筆記"]
+tags = ["Angular", "筆記"]
+categories = ["Angular"]
 +++
 
 <!--more-->

@@ -2,8 +2,8 @@
 title = "Angular FormatDate基本使用"
 date = 2020-10-24T14:24:16+08:00
 description = "Angular 時間格式的小工具"
-tags = ["Angular"]
-categories = ["筆記"]
+tags = ["Angular", "筆記"]
+categories = ["Angular"]
 draft = false
 +++
 
