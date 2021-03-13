@@ -8,7 +8,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
-	mode="auto"
+	mode="light"
 	featherIconsCDN=true
 	subtitle = "Hello I'm Hao"
 
