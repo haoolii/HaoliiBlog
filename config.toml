@@ -4,7 +4,7 @@ title = "HaoLii's Blog"
 theme = "archie"
 
 copyright = "© Hao"
-pygmentsstyle = "monokai"
+pygmentsstyle = "native"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
